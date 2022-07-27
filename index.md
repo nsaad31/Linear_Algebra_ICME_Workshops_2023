@@ -42,6 +42,7 @@ that your course starts. Adjust time schedules within each session.
 Here are some additional resources for various topics:
 
 Lecture notes CME 200 <a href="{{ "/docs/MatrixComputationsIntroBook.pdf" | relative_url }}"> 
+ \\
 Solutions to even numbered questions <a href="{{ "/docs/MatrixComputationsAnswerstoEvennumberedQuestions.pdf" | relative_url }}">
 
 

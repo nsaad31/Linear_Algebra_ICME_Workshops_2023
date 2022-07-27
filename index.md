@@ -41,7 +41,7 @@ that your course starts. Adjust time schedules within each session.
 
 Here are some additional resources for various topics:
 
-1) <a href="{{ "/docs/MatrixComputationsIntroBook.pdf" | relative_url }}"> \\
+1) <a href="{{ "/docs/MatrixComputationsIntroBook.pdf" | relative_url }}"> 
 2) <a href="{{ "/docs/MatrixComputationsAnswerstoEvennumberedQuestions.pdf" | relative_url }}">
 
 

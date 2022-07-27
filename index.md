@@ -3,20 +3,14 @@ layout: default
 ---
 
 # Workshop Description
-TODO(instructor): fill in this section with a description of your workshop.
+Why a workshop on linear algebra? It’s not just because we (instructors Margot and Nadim) fell in love with linear algebra as undergraduate students. It’s really because if you were to look inside the algorithms we use in data science (and many other areas of science and engineering) you would quickly realize that most building blocks of the algorithms are linear algebra.
+If you want to build tools, or if you want to understand the behavior of algorithms better, a strong understanding of linear algebra is super helpful.
+ 
+Of course we cannot do justice to linear algebra in just 6 hours. See this workshop as an appetizer, a first impression, hopefully making you hungry for more. For those of you interested in exploring deeper, we have included in the workshop materials the notes and exercises used in a linear algebra course on campus.
+ 
+During this summer workshop, we will touch on some of the most fundamental linear algebra concepts and operations. We are not assuming any prior knowledge apart from some experience working with vectors in 2D. We will use examples from data science: searching, ranking, a little compression and regression to motivate these concepts. Along the way, we will be introduced to vectors and vector operations,  including the famous dot/inner product , matrix-vector multiplication, matrix-vector systems, the SVD (Singular Value Decomposition), QR, and least squares. 
 
-This course covers the following aspects
-  * Topic 1, and
-  * Topic 2, ...
-  
-It may be helpful to know that you can *italicize* text with single-asterisks
-(or alternatively, using _underscores_),
-and that you can **bold** text using double-asterisks.
-
-If you want to insert a link, use `[` in order to delimit the text that you wish
-to appear in the web-UI, and after closing the text with `]`insert the URL in a
-set of `()`, e.g. [here is a link to ICME's
-website](https://icme.stanford.edu/).
+We hope you will enjoy this (first?) foray into linear algebra!
 
 ## About the Instructors
 

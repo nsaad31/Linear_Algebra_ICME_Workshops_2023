@@ -40,6 +40,7 @@ Nadim Saad is a rising 5th year Ph.D. candidate in ICME advised by Professor Mar
 ## Additional Resources
 
 Here are some additional resources for various topics:
+\\
 Lecture notes CME 200 <a href="{{ "/docs/MatrixComputationsAnswerstoEvennumberedQuestions.pdf" | relative_url }}"> 
  
 

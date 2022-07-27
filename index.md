@@ -41,7 +41,8 @@ that your course starts. Adjust time schedules within each session.
 
 Here are some additional resources for various topics:
 
-TODO(instructor): fill in with pertinent resources.
+1) <a href="/docs/MatrixComputationsIntroBook.pdf" target="_blank">PDF.</a>
+2) <a href="/docs/MatrixComputationsAnswerstoEvennumberedQuestions.pdf" target="_blank">PDF.</a>
 
 
 

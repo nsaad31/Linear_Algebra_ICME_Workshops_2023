@@ -24,13 +24,6 @@ Nadim Saad is a rising 5th year Ph.D. candidate in ICME advised by Professor Mar
 
 # Workshop Materials
 
-## Pre-workshop Checklist
-TODO(instructor): enumerate what students need to take care of before the
-workshop. E.g.
-
-1. Download the following tools: ...
-2. Familiarize with the schedule posted below.
-
 ## Schedule
 TODO(instructor): Make sure the dates and times are accurate below for your
 course. E.g. replace `?`'s with the hour (or time-of-day) 

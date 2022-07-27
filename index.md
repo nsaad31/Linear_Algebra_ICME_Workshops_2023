@@ -20,7 +20,7 @@ Professor Margot Gerritsen is a Professor [Emerita] at Stanford and an affiliate
 
 ![Nadim Saad](/assets/img/nadim-saad-profilephoto.JPG){:style="max-width:20%;"}
 
-
+Nadim Saad is a rising 5th year Ph.D. candidate in ICME advised by Professor Margot Gerritsen. He is interested in computational mathematics generally and is working on PDE-based traffic flow modeling. He is from Lebanon and enjoys running, climbing and singing. He says: “Linear Algebra has always been one of my favorite topics ever since I was in undergrad and I’m very excited to share the beauty of linear algebra with everyone”. 
 
 # Workshop Materials
 

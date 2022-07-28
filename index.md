@@ -34,12 +34,12 @@ Nadim Saad is a rising 5th year Ph.D. candidate in ICME advised by Professor Mar
   - Introduction to eigenvalues and eigenvectors
 
   Detailled schedule:
-  - 8:00 A.M. - 8:15 A.M.: Intros, breakouts
-  - 8:15 A.M. - 9:00 A.M.: New material with Margot 
-  - 9:00 A.M. - 9:30 A.M.: Practice with Nadim 
-  - 9:30 A.M. - 9:45 A.M.: Break
-  - 9:45 A.M. - 10:30 A.M.: New material with Margot 
-  - 10:30 A.M. - 11:00 A.M.: Practice with Nadim
+  - 8:00 A.M - 8:15 A.M: Intros, breakouts
+  - 8:15 A.M - 9:00 A.M: New material with Margot 
+  - 9:00 A.M - 9:30 A.M: Practice with Nadim 
+  - 9:30 A.M - 9:45 A.M: Break
+  - 9:45 A.M - 10:30 A.M: New material with Margot 
+  - 10:30 A.M - 11:00 A.M: Practice with Nadim
   
 #### Session 2 (08/02/2022 | 8:00 A.M. - 11:00 A.M. PST)
   Topics:
@@ -48,12 +48,12 @@ Nadim Saad is a rising 5th year Ph.D. candidate in ICME advised by Professor Mar
   - QR decomposition
   
   Detailled schedule:
-  - 8:00 A.M. - 9:00 A.M.: New material with Margot
-  - 9:00 A.M. - 9:30 A.M.: Practice with Nadim
-  - 9:30 A.M. - 9:45 A.M.: Break
-  - 9:45 A.M. - 10:30 A.M.: New material with Nadim
-  - 10:30 A.M. - 10:50 A.M.: Practice with Nadim
-  - 10:50 A.M. - 11:00 A.M.: Closing
+  - 8:00 A.M - 9:00 A.M: New material with Margot
+  - 9:00 A.M - 9:30 A.M: Practice with Nadim
+  - 9:30 A.M - 9:45 A.M: Break
+  - 9:45 A.M - 10:30 A.M: New material with Nadim
+  - 10:30 A.M - 10:50 A.M: Practice with Nadim
+  - 10:50 A.M - 11:00 A.M: Closing
 
 ## Additional Resources
 

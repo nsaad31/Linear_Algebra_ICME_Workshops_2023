@@ -33,18 +33,27 @@ Nadim Saad is a rising 5th year Ph.D. candidate in ICME advised by Professor Mar
   - Orthogonal matrices, inverses and determinants
   - Introduction to eigenvalues and eigenvectors
 
-  Detailled schedulee:
-  - 8-8:15 Intros, breakouts
-  - 8:15-9 New material with Margot 
-  - 9-9:30 Practice with Nadim 
-  - 9:30-9:45 Break
-  - 9:45-10:30 New material with Margot 
-  - 10:30-11 Practice with Nadim
+  Detailled schedule:
+  - 8:00 A.M. - 8:15 A.M.: Intros, breakouts
+  - 8:15 A.M. - 9:00 A.M.: New material with Margot 
+  - 9:00 A.M. - 9:30 A.M.: Practice with Nadim 
+  - 9:30 A.M. - 9:45 A.M.: Break
+  - 9:45 A.M. - 10:30 A.M.: New material with Margot 
+  - 10:30 A.M. - 11:00 A.M.: Practice with Nadim
   
 #### Session 2 (08/02/2022 | 8:00 A.M. - 11:00 A.M. PST)
+  Topics:
   - SVD (Singular Value Decomposition)
-  - Linear regression and least squares
+  - Linear regression, least squares, normal equations
   - QR decomposition
+  
+  Detailled schedule:
+  - 8:00 A.M. - 9:00 A.M.: New material with Margot
+  - 9:00 A.M. - 9:30 A.M.: Practice with Nadim
+  - 9:30 A.M. - 9:45 A.M.: Break
+  - 9:45 A.M. - 10:30 A.M.: New material with Nadim
+  - 10:30 A.M. - 10:50 A.M.: Practice with Nadim
+  - 10:50 A.M. - 11:00 A.M.: Closing
 
 ## Additional Resources
 

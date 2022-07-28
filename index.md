@@ -27,10 +27,19 @@ Nadim Saad is a rising 5th year Ph.D. candidate in ICME advised by Professor Mar
 ## Schedule
 
 #### Session 1 (08/01/2022 | 8:00 A.M. - 11:00 A.M. PST)
-  - Vectors and vector operations,  including the famous dot/inner product, norms.
-  - Matrix-vector multiplication, matrix-matrix multiplication, matrix-vector systems.
-  - Eigenvalues and eigenvectors.
-  - Orthogonal matrices, inverse of a matrix, determinant.
+  Topics:
+  - Vector multiplication (inner product), cosine rule, vector norms
+  - Matrix-vector multiplication, matrix-vector systems, matrix-matrix multiplication, matrices as operators
+  - Orthogonal matrices, inverses and determinants
+  - Introduction to eigenvalues and eigenvectors
+
+  Detailled schedulee:
+  - 8-8:15 Intros, breakouts
+  - 8:15-9 New material with Margot 
+  - 9-9:30 Practice with Nadim 
+  - 9:30-9:45 Break
+  - 9:45-10:30 New material with Margot 
+  - 10:30-11 Practice with Nadim
   
 #### Session 2 (08/02/2022 | 8:00 A.M. - 11:00 A.M. PST)
   - SVD (Singular Value Decomposition)

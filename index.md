@@ -55,6 +55,11 @@ Nadim Saad is a rising 5th year Ph.D. candidate in ICME advised by Professor Mar
   - 10:30 A.M - 10:50 A.M: Practice with Nadim
   - 10:50 A.M - 11:00 A.M: Closing
 
+## Zoom links
+
+- ([Session 1]([https://widsconference.org/](https://stanford.zoom.us/rec/share/Ty97KYDXeGg6XNu-PJ8jk5NUMvNq7oTustEVEj-pcQeigmCbCAmiAzyBzbN1PnRi.YuhVfB-HFYy4x77H?startTime=1659365127000)) )
+
+
 ## Additional Resources
 
 Here are some additional resources for various topics:

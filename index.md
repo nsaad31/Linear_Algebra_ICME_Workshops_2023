@@ -65,7 +65,9 @@ Lecture notes CME 200 <a href="{{ "/docs/MatrixComputationsAnswerstoEvennumbered
 \\
 Solutions to even numbered questions <a href="{{ "/docs/ICMELAWorkshop2022.pdf" | relative_url }}"> 
 \\
-Slides
+Slides <a href="{{ "/docs/ICME_Summer_Workshop_Linear_Algebra.pdf" | relative_url }}"> 
+\\
+Practice Problems
  
 
  

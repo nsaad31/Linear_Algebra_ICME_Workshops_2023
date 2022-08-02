@@ -58,6 +58,7 @@ Nadim Saad is a rising 5th year Ph.D. candidate in ICME advised by Professor Mar
 ## Zoom links
 
 - Link for first Session: ([Session 1](https://stanford.zoom.us/rec/share/Ty97KYDXeGg6XNu-PJ8jk5NUMvNq7oTustEVEj-pcQeigmCbCAmiAzyBzbN1PnRi.YuhVfB-HFYy4x77H?startTime=1659365127000) )
+- Link for second Session: ([Session 2](https://stanford.zoom.us/rec/share/PFtGE1R2pdropH7EwHq9bcfqeoO9v0rlQkvcDLvwiIiTMeOm6wrp4BLwhFkbDWoX.ECVEH7vhvIdYZJGO?startTime=1659450463000) )
 
 
 ## Additional Resources

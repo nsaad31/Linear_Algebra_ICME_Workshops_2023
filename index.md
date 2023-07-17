@@ -3,12 +3,11 @@ layout: default
 ---
 
 # Workshop Description
-Why a workshop on linear algebra? It’s not just because we (instructors Margot and Nadim) fell in love with linear algebra as undergraduate students. It’s really because if you were to look inside the algorithms we use in data science (and many other areas of science and engineering) you would quickly realize that most building blocks of the algorithms are linear algebra.
-If you want to build tools, or if you want to understand the behavior of algorithms better, a strong understanding of linear algebra is super helpful.
- 
-Of course we cannot do justice to linear algebra in just 6 hours. See this workshop as an appetizer, a first impression, hopefully making you hungry for more. For those of you interested in exploring deeper, we have included in the workshop materials the notes and exercises used in a linear algebra course on campus.
- 
-During this summer workshop, we will touch on some of the most fundamental linear algebra concepts and operations. We are not assuming any prior knowledge apart from some experience working with vectors in 2D. We will use examples from data science: searching, ranking, a little compression and regression to motivate these concepts. Along the way, we will be introduced to vectors and vector operations,  including the famous dot/inner product , matrix-vector multiplication, matrix-vector systems, the SVD (Singular Value Decomposition), QR, and least squares. 
+Have you ever wondered how Google delivers search results or how Netflix curates personalized movie recommendations? The answer lies in linear algebra. Join us to uncover the underlying principles and applications of linear algebra in data science. Through engaging examples from real-world data science scenarios such as searching, ranking, and regression, you will develop a deeper understanding of vectors and their operations, including the influential dot product. Matrices will also take center stage as we analyze their significance in various contexts, such as representing social networks, solving linear systems, and acting as operators.
+
+Delving further, we will explore different types of matrices, such as orthogonal and triangular matrices, and their frequent application in data science through decompositions like Singular Value Decomposition (SVD) and QR decomposition. Additionally, we will unravel the inner workings of the PageRank algorithm used by Google in its search engine.
+
+This workshop serves as a tantalizing introduction to linear algebra, aiming to ignite your curiosity and pave the way for further exploration. For those seeking to deepen their knowledge, we will provide accessible resources that expand on the material covered in the workshop. Join us on this exciting journey and uncover the fundamental role of linear algebra in shaping the algorithms driving modern data science.
 
 We hope you will enjoy this (first?) foray into linear algebra!
 

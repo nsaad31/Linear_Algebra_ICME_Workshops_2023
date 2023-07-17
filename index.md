@@ -15,7 +15,7 @@ We hope you will enjoy this (first?) foray into linear algebra!
 
 ![Nadim Saad](/assets/img/nadim-saad-profilephoto.JPG){:style="max-width:40%;"}
 
-Nadim Saad is a 5th year Ph.D. candidate in ICME advised by Professor Margot Gerritsen and will be completing his PhD this summer. He is interested in computational mathematics generally and is working on PDE-based traffic flow modeling. He is from Lebanon and enjoys running, climbing and singing. He will be joining Northeastern University as an Assistant Teaching Professor in Computer Science and Data Science next fall. He says: “Linear Algebra has always been one of my favorite topics ever since I was in undergrad and I’m very excited to share that with everyone”. 
+Nadim Saad is a 5th year Ph.D. candidate in ICME advised by Professor Margot Gerritsen and will be completing his PhD this summer. He is interested in computational mathematics generally and is working on PDE-based traffic flow modeling. He is from Lebanon and enjoys running, climbing and singing. He will be joining Northeastern University as an Assistant Teaching Professor in Computer Science and Data Science next fall. He says: “Linear Algebra has always been one of my favorite topics and I’m very excited to share its beauty with everyone”. 
 
 # Workshop Materials
 

@@ -14,19 +14,15 @@ We hope you will enjoy this (first?) foray into linear algebra!
 
 ## About the Instructors
 
-![Margot Gerritsen](/assets/img/margot-gerritsen_profilephoto.png){:style="max-width:40%;"}
-
-Professor Margot Gerritsen is a Professor [Emerita] at Stanford and an affiliated ICME faculty. She is Co-Founder and current Executive Director of the global Women in Data Science initiative ([WiDS](https://widsconference.org/) ). From 2010 to 2018, she served as the Director of ICME, and from 2015-2020 as Senior Associate Dean in the School of Earth, Energy and Environmental Sciences. She is also currently the Chair of the Board of the Society for Industrial and Applied Mathematics ([SIAM](https://siam.org/) ). She received her Ph.D. in Scientific Computing and Computational Mathematics at Stanford in 1997. After five years as faculty member at the University of Auckland, she returned to Stanford in 2001. Margot specializes in computational modeling of fluid flow processes, numerical analysis and data science. She taught several of the ICME core and service courses in numerical analysis and linear algebra, as well as courses in renewable energy while at Stanford. Margot's favorite area of computational mathematics is linear algebra and she is much looking forward to this short course. In her free time, Margot can be found outdoors mostly, hiking, biking, gardening and riding her motorbike with husband Paul, or indoors reading or picking her banjo. Margot has a son who recently graduated from Stanford. 
-
 ![Nadim Saad](/assets/img/nadim-saad-profilephoto.JPG){:style="max-width:40%;"}
 
-Nadim Saad is a rising 5th year Ph.D. candidate in ICME advised by Professor Margot Gerritsen. He is interested in computational mathematics generally and is working on PDE-based traffic flow modeling. He is from Lebanon and enjoys running, climbing and singing. He says: “Linear Algebra has always been one of my favorite topics ever since I was in undergrad and I’m very excited to share that with everyone”. 
+Nadim Saad is a 5th year Ph.D. candidate in ICME advised by Professor Margot Gerritsen and will be completing his PhD this summer. He is interested in computational mathematics generally and is working on PDE-based traffic flow modeling. He is from Lebanon and enjoys running, climbing and singing. He will be joining Northeastern University as an Assistant Teaching Professor in Computer Science and Data Science next fall. He says: “Linear Algebra has always been one of my favorite topics ever since I was in undergrad and I’m very excited to share that with everyone”. 
 
 # Workshop Materials
 
 ## Schedule
 
-#### Session 1 (08/01/2022 | 8:00 A.M. - 11:00 A.M. PST)
+#### Session 1 (07/26/2023 | 8:00 A.M. - 11:00 A.M. PST)
   Topics:
   - Vector multiplication (inner product), cosine rule, vector norms
   - Matrix-vector multiplication, matrix-vector systems, matrix-matrix multiplication, matrices as operators
@@ -35,20 +31,20 @@ Nadim Saad is a rising 5th year Ph.D. candidate in ICME advised by Professor Mar
 
   Detailled schedule:
   - 8:00 A.M - 8:15 A.M: Intros, breakouts
-  - 8:15 A.M - 9:00 A.M: New material with Margot 
+  - 8:15 A.M - 9:00 A.M: New material with Nadim 
   - 9:00 A.M - 9:30 A.M: Practice with Nadim 
   - 9:30 A.M - 9:45 A.M: Break
-  - 9:45 A.M - 10:30 A.M: New material with Margot 
+  - 9:45 A.M - 10:30 A.M: New material with Nadim
   - 10:30 A.M - 11:00 A.M: Practice with Nadim
   
-#### Session 2 (08/02/2022 | 8:00 A.M. - 11:00 A.M. PST)
+#### Session 2 (07/27/2023 | 8:00 A.M. - 11:00 A.M. PST)
   Topics:
   - SVD (Singular Value Decomposition)
   - Linear regression, least squares, normal equations
-  - QR decomposition
+  - PageRank Algorithm
   
   Detailled schedule:
-  - 8:00 A.M - 9:00 A.M: New material with Margot
+  - 8:00 A.M - 9:00 A.M: New material with Nadim
   - 9:00 A.M - 9:30 A.M: Practice with Nadim
   - 9:30 A.M - 9:45 A.M: Break
   - 9:45 A.M - 10:30 A.M: New material with Nadim
@@ -56,9 +52,6 @@ Nadim Saad is a rising 5th year Ph.D. candidate in ICME advised by Professor Mar
   - 10:50 A.M - 11:00 A.M: Closing
 
 ## Zoom links
-
-- Link for first Session: ([Session 1](https://stanford.zoom.us/rec/share/Ty97KYDXeGg6XNu-PJ8jk5NUMvNq7oTustEVEj-pcQeigmCbCAmiAzyBzbN1PnRi.YuhVfB-HFYy4x77H?startTime=1659365127000) )
-- Link for second Session: ([Session 2](https://stanford.zoom.us/rec/share/PFtGE1R2pdropH7EwHq9bcfqeoO9v0rlQkvcDLvwiIiTMeOm6wrp4BLwhFkbDWoX.ECVEH7vhvIdYZJGO?startTime=1659450463000) )
 
 
 ## Additional Resources

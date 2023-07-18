@@ -32,11 +32,11 @@ MJ is a 4th year Ph.D. candidate in Mechanical Engineering in the Farhat Researc
 
   Detailled schedule:
   - 8:00 A.M - 8:15 A.M: Intros, breakouts
-  - 8:15 A.M - 9:00 A.M: New material with Nadim 
-  - 9:00 A.M - 9:30 A.M: Practice with Nadim 
+  - 8:15 A.M - 9:00 A.M: New material 
+  - 9:00 A.M - 9:30 A.M: Practice 
   - 9:30 A.M - 9:45 A.M: Break
-  - 9:45 A.M - 10:30 A.M: New material with Nadim
-  - 10:30 A.M - 11:00 A.M: Practice with Nadim
+  - 9:45 A.M - 10:30 A.M: New material
+  - 10:30 A.M - 11:00 A.M: Practice
   
 #### Session 2 (07/27/2023 | 8:00 A.M. - 11:00 A.M. PST)
   Topics:
@@ -45,11 +45,11 @@ MJ is a 4th year Ph.D. candidate in Mechanical Engineering in the Farhat Researc
   - PageRank Algorithm
   
   Detailled schedule:
-  - 8:00 A.M - 9:00 A.M: New material with Nadim
-  - 9:00 A.M - 9:30 A.M: Practice with Nadim
+  - 8:00 A.M - 9:00 A.M: New material
+  - 9:00 A.M - 9:30 A.M: Practice
   - 9:30 A.M - 9:45 A.M: Break
-  - 9:45 A.M - 10:30 A.M: New material with Nadim
-  - 10:30 A.M - 10:50 A.M: Practice with Nadim
+  - 9:45 A.M - 10:30 A.M: New material
+  - 10:30 A.M - 10:50 A.M: Practice
   - 10:50 A.M - 11:00 A.M: Closing
 
 ## Zoom links

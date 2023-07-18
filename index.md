@@ -17,7 +17,9 @@ We hope you will enjoy this (first?) foray into linear algebra!
 
 Nadim Saad is a 5th year Ph.D. candidate in ICME advised by Professor Margot Gerritsen and will be completing his PhD this summer. He is interested in computational mathematics generally and is working on PDE-based traffic flow modeling. He is from Lebanon and enjoys running, climbing and singing. He will be joining Northeastern University as an Assistant Teaching Professor in Computer Science and Data Science next fall. He says: “Linear Algebra has always been one of my favorite topics and I’m very excited to share its beauty with everyone”. 
 
-# Workshop Materials
+![Marie Jose Azzi](/assets/img/nadim-saad-profilephoto.JPG){:style="max-width:40%;"}
+
+MJ is a 4th year Ph.D. candidate in Mechanical Engineering in the Farhat Research Group. Her research focuses on computational modeling and numerical optimization. Specifically, she studies reduced-order modeling techniques within the field of structural dynamics. Outside work, she enjoys swimming, watching live music, and spending time by the ocean.
 
 ## Schedule
 

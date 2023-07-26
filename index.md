@@ -63,7 +63,7 @@ Here are some additional resources for various topics:
 \\
 Lecture notes CME 200 <a href="{{ "/docs/MatrixComputationsAnswerstoEvennumberedQuestions.pdf" | relative_url }}"> 
 \\
-Solutions to even numbered questions <a href="{{ "/docs/ICME_LA_WORKSHOP_2023.pdf" | relative_url }}"> 
+Solutions to even numbered questions <a href="{{ "/docs/ICMELAWORKSHOP_2023.pdf" | relative_url }}"> 
 \\
 Slides <a href="{{ "/docs/ICME_Summer_Workshop_Linear_Algebra.pdf" | relative_url }}"> 
 \\

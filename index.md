@@ -55,6 +55,7 @@ MJ is a 4th year Ph.D. candidate in Mechanical Engineering in the Farhat Researc
 ## Zoom links
 
 - Link for first Session: ([Session 1](https://stanford.zoom.us/rec/play/ooXUpBkiV2PtSnWe8kY2tuKSwfPhegkcg6oKqEvr_pdQ_YUU0IRhEHhJCl3lFvyBlE4XPMRSk87PJspj.jo6OM_4pAcD5nzQP?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fstanford.zoom.us%2Frec%2Fshare%2Fpfe3ORCE7qB1oxHb3hsm8LYYkgIHnVK9X2e7d6VTB7UsJUfkA0Ld1no2F4ERRoKW.ves5DDdNdvzde6vf) )
+- Link for first Session: ([Session 1](https://stanford.zoom.us/rec/share/tHdCGp1UsQUvz10MPapuHZnTEhnMbv2RxQPdobAQ-PFgQvLpXqZny1TDNz6k-xBm.ww8iqfrDoEN1uGJX) ) 
 
 
 ## Additional Resources
